@@ -1,0 +1,21 @@
+{
+  "name": "qul-env",
+  "version": "0.0.1",
+  "authors": [
+    "Łukasz Sałajczyk <l.salajczyk@gmail.com>"
+  ],
+  "description": "Angular environment config",
+  "main": "./src/Env.service.js",
+  "keywords": [
+    "env"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}
