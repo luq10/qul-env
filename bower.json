@@ -5,7 +5,7 @@
     "Łukasz Sałajczyk <l.salajczyk@gmail.com>"
   ],
   "description": "Angular environment config",
-  "main": "./src/Env.service.js",
+  "main": "./src/app.js",
   "keywords": [
     "env"
   ],
