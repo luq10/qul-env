@@ -45,6 +45,9 @@
        * </pre>
        */
       this.setConfig = function (config) {
+        for (var name in config) {
+            config[name].constants.$name = name;
+        }
         this.config = config;
       };
 
